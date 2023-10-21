@@ -1,0 +1,4 @@
+C:\Users\fsila\source\repos\my first project\my first project\obj\Debug\net6.0\my first project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsila\source\repos\my first project\my first project\obj\Debug\net6.0\my first project.AssemblyInfoInputs.cache
+C:\Users\fsila\source\repos\my first project\my first project\obj\Debug\net6.0\my first project.AssemblyInfo.cs
+C:\Users\fsila\source\repos\my first project\my first project\obj\Debug\net6.0\my first project.csproj.CoreCompileInputs.cache
